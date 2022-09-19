@@ -13,6 +13,6 @@
 <!-- [![](https://visitcount.itsvg.in/api?id=rafi252000&icon=6&color=2)](https://visitcount.itsvg.in) -->
 ![](https://komarev.com/ghpvc/?username=rafi252000&style=for-the-badge)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SaifurRahmanBijoy&theme=react&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=SaifurRahmanBijoy&theme=react&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SaifurRahmanBijoy&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=rafi252000&theme=react&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=rafi252000&theme=react&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rafi252000&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
